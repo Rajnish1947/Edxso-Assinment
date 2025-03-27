@@ -1,1 +1,73 @@
-README.md~
+Task Summary
+
+Create a 3x3 matrix with interactive buttons.
+
+Clicking a box turns it green.
+
+Clicking the last box changes all clicked boxes to orange in sequence.
+
+A Reset button restores the initial state.
+
+Technologies Used
+
+ReactJS for the UI.
+
+Tailwind CSS for styling.
+
+How to Run
+
+Clone the project: git clone Task Summary
+
+Create a 3x3 matrix with interactive buttons.
+
+Clicking a box turns it green.
+
+Clicking the last box changes all clicked boxes to orange in sequence.
+
+A Reset button restores the initial state.
+
+Technologies Used
+
+ReactJS for the UI.
+
+Tailwind CSS for styling.
+
+How to Run
+
+Clone the project: git clone https://github.com/Rajnish1947/Edxso-Assinment
+
+Navigate to the project folder: cd matrix-game
+
+Install dependencies: npm install
+
+Start the app: npm start
+
+Open http://localhost:3000/ in your browser.
+
+Key Features
+
+Interactive color-changing grid.
+
+Sequential color transition effect.
+
+Beautiful UI with animations.
+
+Fully responsive design.
+
+Navigate to the project folder: cd matrix-game
+
+Install dependencies: npm install
+
+Start the app: npm start
+
+Open http://localhost:3000/ in your browser.
+
+Key Features
+
+Interactive color-changing grid.
+
+Sequential color transition effect.
+
+Beautiful UI with animations.
+
+Fully responsive design.
